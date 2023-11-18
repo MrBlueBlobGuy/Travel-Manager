@@ -1,0 +1,6 @@
+python-dotenv
+numpy
+colorama
+
+requests
+mysql-connector-python
